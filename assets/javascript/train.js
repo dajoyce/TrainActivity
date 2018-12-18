@@ -83,5 +83,5 @@ trainData.ref().on("child_added", function(snapshot) {
   );
 
   // Append the new row to the table
-  $("#dynamicRows > tbody").append(newRow);
+  $("#table-body").append(newRow);
 });

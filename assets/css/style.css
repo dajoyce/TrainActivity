@@ -1,0 +1,22 @@
+.jumbotron {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 20px;
+  border-style: double;
+}
+
+.dynamicTable {
+  background-color: aquamarine;
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-bottom: 20px;
+  border-style: double;
+}
+
+.trainInput {
+  background-color: lightcoral;
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-bottom: 40px;
+  border-style: double;
+}
